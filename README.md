@@ -10,4 +10,5 @@ game.py: GUI program to PVE or PVP
 
 ## Usage
 python train.py: train model 
+
 python game.py: play gomoku
